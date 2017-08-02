@@ -1,0 +1,31 @@
+{
+  "name": "sonoslink",
+  "version": "0.2.6",
+  "author": "Sam Ryan",
+  "description": "Computer Audio to Sonos",
+  "contributors": [
+    {
+      "name": "Sam Ryan",
+      "email": "r.sam.ryan@gmail.com"
+    }
+  ],
+  "scripts": {
+    "start": "node ./bin/index.js"
+  },
+  "bin": "./bin/index.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "babel": "^5.8.21",
+    "bluebird": "^2.9.34",
+    "flags": "~0.1.2",
+    "ip": "1.1.0",
+    "nicercast": "0.1.0",
+    "nodetunes": "^0.3.0",
+    "osx-audio": "^1.0.0",
+    "sonos": "git://github.com/stephen/node-sonos.git#stephen-1.0.0"
+  },
+  "license": "MIT"
+}
