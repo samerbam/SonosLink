@@ -3,6 +3,10 @@ SonosLink
 
 SonosLink emulates a sonos connect so that you can 
 
+Compatability
+-------------
+Currently SonosLink only works on mac os. I have plans to add support for Windows, Linux, Raspberry Pi, and any I can think of.
+
 Installation
 -----------
 ```
