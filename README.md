@@ -15,6 +15,7 @@ $ cd sonoslink
 $ npm install
 $ node ./bin/index.js
 ```
+*note: you need to install soundflower and set your computers input & output to either soundflower (2ch) or soundflower (64ch) in order to broadcast system sound
 
 Example usage
 -------------
