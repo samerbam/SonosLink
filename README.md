@@ -10,7 +10,7 @@ Currently SonosLink only works on mac os. I have plans to add support for Window
 Installation
 -----------
 ```
-$ git clone github link
+$ git clone https://github.com/samerbam/SonosLink.git
 $ cd sonoslink
 $ npm install
 $ node ./bin/index.js
