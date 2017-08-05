@@ -11,7 +11,7 @@ Installation
 -----------
 ```
 $ git clone github link
-$ cd airsonos
+$ cd sonoslink
 $ npm install
 $ node ./bin/index.js
 ```
