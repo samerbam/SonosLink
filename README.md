@@ -23,7 +23,8 @@ Example usage
 $ node ./bin/index.js
 Searching for Sonos devices on network...
 
-Dining Room Speaker (@ 192.168.0.15:1400, RINCON_B8E937D35A0601400:3)
+
+Dining Room Speaker (@ 192.168.0.15:1400, RINCON_Bxxxxxxxxxxxxxxx0:3)
 
 Search complete. Set up 1 device tunnel.
 ```
